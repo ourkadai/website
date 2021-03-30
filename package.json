@@ -1,1 +1,60 @@
-{}
+{
+  "name": "gurukulam-web",
+  "version": "1.0.0",
+  "description": "Gurukulam Web Portal",
+  "author": "Sathish Kumar Thiyagarajan",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/techatpark/npm_scripts_static-ref.git"
+  },
+  "keywords": [
+    "npm",
+    "scripts",
+    "npm scripts",
+    "watch",
+    "minify",
+    "compress"
+  ],
+  "bugs": {
+    "url": "https://github.com/techatpark/npm_scripts_static-ref/issues"
+  },
+  "homepage": "https://github.com/techatpark/npm_scripts_static-ref#readme",
+  "devDependencies": {
+    "@babel/core": "^7.13.8",
+    "@rollup/plugin-babel": "^5.3.0",
+    "@rollup/plugin-multi-entry": "^4.0.0",
+    "@rollup/plugin-node-resolve": "^11.2.0",
+    "@rollup/plugin-replace": "^2.4.1",
+    "autoprefixer": "^10.2.4",
+    "browser-sync": "2.26.13",
+    "copy-files-from-to": "^3.2.0",
+    "eslint": "7.18.0",
+    "html-includes": "^4.3.3",
+    "npm-run-all": "4.1.5",
+    "onchange": "7.1.0",
+    "postcss": "^8.2.7",
+    "postcss-cli": "^8.3.1",
+    "precss": "^4.0.0",
+    "rimraf": "3.0.2",
+    "rollup": "^2.40.0"
+  },
+  "scripts": {
+    "clean": "rimraf dist",
+    "copy": "copy-files-from-to",
+    "lint": "eslint src/js --ext .js",
+    "serve": "browser-sync start --config browser-sync.js",
+    "build:css": "postcss -o dist/css/app.css src/css/*.css",
+    "build:js": "rollup -c",
+    "build:html": "html-includes --src src --dest dist --minify",
+    "build": "run-s clean copy build:*",
+    "watch:css": "onchange \"src/css\" -- run-s build:css",
+    "watch:js": "onchange \"src/js\" -- run-s build:js",
+    "watch:html": "onchange \"src/**/*.html\" -- run-s build:html",
+    "start": "npm run build && run-p serve watch:*",
+    "postinstall": "npm run build"
+  },
+  "browserslist": [
+    "defaults"
+  ]
+}
