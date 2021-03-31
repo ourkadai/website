@@ -1,3 +1,29 @@
+
+
+
 body{
     width: auto;
 }
+
+body,h1 {font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+.bgimg {
+  background-image: url('/images/OurKadaiLogo.jpg');
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+
+.display-container{position:relative}
+
+.animate-opacity { 
+    -webkit-animation:opac 0.8s; 
+            animation:opac 0.8s
+}@-webkit-keyframes opac{from{opacity:0} to{opacity:1}}@keyframes opac{from{opacity:0} to{opacity:1}}
+
+.content-center{text-align:center!important}
+
+.content-large{font-size:18px!important}
+
+.display-middle{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%)}
+
