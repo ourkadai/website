@@ -8,7 +8,7 @@ body{
 body,h1 {font-family: "Raleway", sans-serif}
 body, html {height: 100%}
 .bgimg {
-  background-image: url(../images/OurKadaiLogo.jpg);
+  background-image: url(../images/images4.jpeg);
   min-height: 100%;
   background-position: center;
   background-size: cover;
@@ -23,7 +23,7 @@ body, html {height: 100%}
 
 .content-center{text-align:center!important}
 
-.content-large{font-size:18px!important}
+.content-large{font-size:30px!important}
 
-.display-middle{position:absolute;top:10%;}
+.display-middle{position:absolute;top:40%;left:50;}
 
