@@ -25,5 +25,5 @@ body, html {height: 100%}
 
 .content-large{font-size:18px!important}
 
-.display-middle{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%)}
+.display-middle{position:absolute;top:10%;left:10%;}
 
