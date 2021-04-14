@@ -1,28 +1,109 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
 
-
-
-body{
-    width: auto;
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
 }
 
-body,h1 {font-family: "Raleway", sans-serif}
-body, html {height: 100%}
-.bgimg {
-  background-image: url(../images/images4.jpeg);
-  min-height: 100%;
+body {
+  font-family: 'Roboto', sans-serif;
+}
+main{
+	background: url(../images/Mobile_Img.jpg);
+  
   background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
   background-size: cover;
+  min-height: 100vh;
 }
 
-.display-container{position:relative}
+main div.info-board {
+    padding-left: 2em;
+    padding-top: 18em;
+  }
 
-.animate-opacity { 
-    animation:opac 0.8s
-}@keyframes opac{from{opacity:0} to{opacity:1}}
+h1 {
+  font-size: 2.5rem;
+}
+h2 {
+  font-size: 1.5rem;
+}
+/* ----------- Non-Retina Screens ----------- */
+@media screen 
+  and (min-device-width: 800px) 
+  and (-webkit-min-device-pixel-ratio: 1) { 
+	  main {
+		background: url(../images/Web_Img.jpg);
+		background-position: center;
+		background-repeat: no-repeat;
+		background-attachment: scroll;
+		background-size: cover;
+		min-height: 100vh;
+	  }
+	main div.info-board {
+		padding-left: 12em;
+		padding-top: 16em;
+	  }
+}
 
-.content-center{text-align:center!important}
-
-.content-large{font-size:30px!important}
-
-.display-middle{position:absolute;top:40%;left:50;}
-
+/* ----------- Retina Screens ----------- */
+@media screen 
+  and (min-device-width: 800px)  
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (min-resolution: 192dpi) { 
+	main {
+		background: url(../images/Web_Img.jpg);
+		background-position: center;
+		background-repeat: no-repeat;
+		background-attachment: scroll;
+		background-size: cover;
+		min-height: 100vh;
+	  }
+	main div.info-board {
+		padding-left: 12em;
+		padding-top: 16em;
+	  }
+}
