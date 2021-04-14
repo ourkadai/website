@@ -51,7 +51,7 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 main{
-	background: url(../images/Mobile_Img.jpg);
+	background: url(../images/img.jpg);
   
   background-position: center;
   background-repeat: no-repeat;
@@ -67,16 +67,20 @@ main div.info-board {
 
 h1 {
   font-size: 2.5rem;
+  font-weight: bolder;
+  color: azure;
 }
 h2 {
   font-size: 1.5rem;
+  font-weight: bolder;
+  color: azure;
 }
 /* ----------- Non-Retina Screens ----------- */
 @media screen 
   and (min-device-width: 800px) 
   and (-webkit-min-device-pixel-ratio: 1) { 
 	  main {
-		background: url(../images/Web_Img.jpg);
+		background: url(../images/img.jpg);
 		background-position: center;
 		background-repeat: no-repeat;
 		background-attachment: scroll;
@@ -84,7 +88,7 @@ h2 {
 		min-height: 100vh;
 	  }
 	main div.info-board {
-		padding-left: 12em;
+		padding-left: 6em;
 		padding-top: 16em;
 	  }
 }
@@ -98,7 +102,7 @@ h2 {
   and (-webkit-min-device-pixel-ratio: 2)
   and (min-resolution: 192dpi) { 
 	main {
-		background: url(../images/Web_Img.jpg);
+		background: url(../images/img.jpg);
 		background-position: center;
 		background-repeat: no-repeat;
 		background-attachment: scroll;
@@ -106,7 +110,7 @@ h2 {
 		min-height: 100vh;
 	  }
 	main div.info-board {
-		padding-left: 12em;
+		padding-left: 8em;
 		padding-top: 16em;
 	  }
 }
