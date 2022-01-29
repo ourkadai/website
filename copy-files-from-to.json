@@ -2,7 +2,7 @@
     "copyFiles": [
         {
             "from": "src/images/**",
-            "to": "dist/images"
+            "to": "dist/images/"
         }
     ]
 }
