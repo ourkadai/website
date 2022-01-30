@@ -1,3 +1,7 @@
+.nav-link {
+  color: #000 !important;
+}
+
 .type {
     display:inline-block;
     vertical-align: bottom;
