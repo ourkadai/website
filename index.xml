@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gurukulams School</title>
+    <link>/</link>
+    <description>Recent content on Gurukulams School</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Nov 2018 19:02:50 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A1</title>
+      <link>/about/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Driven by desire to contribute meaningfully to the technology and community, OurKadai Technologies is a consortium of steadfast, passionate &amp;amp; dedicated brains and minds, promoting the culture of Open-Source software. Design and development of web applications, seamless integration of business applications and automation of business process flows, UI/UX are the key areas of interest. OurKadai focuses on highly qualitative, timely delivered and cost-effective e-business solutions and development services. With rich and varied experience in software development, project management capabilities and stringent quality standards, we ensure to develop and deliver products and services of the highest degree.</description>
+    </item>
+    
+    <item>
+      <title>A1</title>
+      <link>/contact/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>We are digitally native and believe in being digitally ubiquitousCall Us @
+Mail Us @ operations@ourkadai.com
+Socially @    
+We fly high, yet we stay groundedPlot no.169, INTUC Colony, Pethaniyapuram, Madurai - 625016</description>
+    </item>
+    
+    <item>
+      <title>A1</title>
+      <link>/methodology/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/methodology/</guid>
+      <description>Information Technology is not in its teen. It is a matured individual thriving for the past 30 year and it’s in a cross-road now facing up the new world challenges. It is not any more a blue eyed boy from Cyber Valleys. Every nook and corner store is getting digital. Currencies are getting bolder and crossing borders by snatching chains from Central Banks and aligning themselves with Block-chains. Clouds are no more just rain god’s property.</description>
+    </item>
+    
+    <item>
+      <title>A1</title>
+      <link>/posts/articles/a1/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/posts/articles/a1/</guid>
+      <description>I am a1</description>
+    </item>
+    
+    <item>
+      <title>A1</title>
+      <link>/publications/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>Postgress ConferenceAll You Need to Work with SQL is Just SQLTraditionally, we use Languages and Frameworks interact with Relational Databases. While these are effective in many ways, One problem is that, each of these brings new learning curve. It will be nice if we use SQL itself as the core skill and build application with plain simple SQL skills. In this webinar, I will demo this approach with a case study that builds simple, high performing Java application using Postgres database.</description>
+    </item>
+    
+    <item>
+      <title>A1</title>
+      <link>/services/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/services/</guid>
+      <description>MicroservicesAre you in the process of splitting your monolithic application into microservices. We can help you with both what to do and what not to as we did this to many times last few years
+DevopsDevops can be tricky.Even small mistake can backfire heavily. We can help you with 360 degree approache using everything as a code (Infra, Testing, Code Review and doumentation).
+Cloud NativeWe can help all the factors that you need to consider to build cloud native apps.</description>
+    </item>
+    
+    <item>
+      <title>A1</title>
+      <link>/work/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/work/</guid>
+      <description>Low Code/No CodeAurzartAurzart.com – ‘Made by musician for musician’ as the company slogan proudly pronounces. Not only the music instruments that is being sold, the whole ecommerce site is also solely made by a musician, managed and operated day-in and day-out by a technology novice.
+Keen to know how this techno-romance unfolded? Here we go!
+Hats off to Martyn Charles, who is proudly one of the earliest adaptors of no-code platform in India who launched his close to heart online music business in just a week’s time.</description>
+    </item>
+    
+    <item>
+      <title>A2</title>
+      <link>/posts/articles/a2/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/posts/articles/a2/</guid>
+      <description>I am a2</description>
+    </item>
+    
+    <item>
+      <title>A3</title>
+      <link>/posts/articles/a3/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/posts/articles/a3/</guid>
+      <description>I am a3</description>
+    </item>
+    
+  </channel>
+</rss>

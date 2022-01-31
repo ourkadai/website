@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Gurukulams School</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Gurukulams School</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Nov 2018 19:02:50 -0700</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>t1</title>
+      <link>/tags/t1/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/tags/t1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>t2</title>
+      <link>/tags/t2/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/tags/t2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
