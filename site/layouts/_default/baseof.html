@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.Language.Lang }}">
+
+<head>
+
+
+  {{ block "head" . }}{{ partial "head" . }}{{end}}
+
+  {{ if templates.Exists ( printf "partials/head-%s.html" .Type ) }}
+  {{ $partialPath := printf "head-%s" .Type }}
+  {{ partial $partialPath . }}
+  {{ end }}
+
+
+</head>
+
+<body>
+  
+  {{ if not .IsHome }}
+  {{ block "header" . }}{{ partial "header" . }}{{end}}
+  {{ end }}
+
+  <main class="container-fluid w-100 h-100">
+    <div class="row w-100 h-100" id="main-container">
+      {{ block "main" . }}{{end}}
+    </div>
+    
+  </main>
+  {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+
+
+  {{ if .IsHome }}
+    
+    {{ else }}
+      <!-- /.container -->
+  {{ block "scripts" . }}{{ partial "scripts" . }}{{end}}
+
+  {{ if templates.Exists ( printf "partials/scripts-%s.html" .Type ) }}
+  {{ $partialPath := printf "scripts-%s" .Type }}
+  {{ partial $partialPath . }}
+  {{ end }}
+    {{ end }}
+  
+</body>
+
+</html>
