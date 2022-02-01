@@ -1,12 +1,12 @@
 {
-  "name": "gurukulam-web",
+  "name": "ourkadai-web",
   "version": "1.0.0",
-  "description": "Gurukulams Web Portal",
+  "description": "Ourkadai's Website",
   "author": "Sathish Kumar Thiyagarajan",
   "license": "GPL-3.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/techatpark/npm_scripts_static-ref.git"
+    "url": "https://github.com/ourkadai/website.git"
   },
   "keywords": [
     "npm",
@@ -17,9 +17,9 @@
     "compress"
   ],
   "bugs": {
-    "url": "https://github.com/techatpark/npm_scripts_static-ref/issues"
+    "url": "https://github.com/ourkadai/website/issues"
   },
-  "homepage": "https://github.com/techatpark/npm_scripts_static-ref#readme",
+  "homepage": "https://github.com/ourkadai/website#readme",
   "devDependencies": {
     "@babel/core": "^7.13.8",
     "@rollup/plugin-babel": "^5.3.0",
