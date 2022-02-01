@@ -1,15 +1,12 @@
 ---
-title: 'A1'
+title: 'Ourkadai - Methodalogy'
 date: 2018-11-14T19:02:50-07:00
 draft: false
 tags: ["t1"]
 ---
 
-Information Technology is not in its teen. It is a matured individual thriving for the past 30 year and it’s in a cross-road now facing up the new world challenges. It is not any more a blue eyed boy from Cyber Valleys. Every nook and corner store is getting digital. Currencies are getting bolder and crossing borders by snatching chains from Central Banks and aligning themselves with Block-chains. Clouds are no more just rain god’s property. They are now owned by Googles & Amazons of the world and they store more data than water vapor nowadays. Infrastructure as a Service, Testing as a Service, Platform as a Service are not Buzz words any more. They are reality today. Welcome, to the brand-new era of digital world!
-What is in it for me? These paradigm shifts bring along with them, lots and lots of brand-new uphill challenges. New Age challenges need new age solutions. Striving for newer solutions based on decades old approaches will not fetch any efficient results. Something down our spine yelps out, “Folks, it’s time up. Think differently!” That brings out the best in us to rethink and redesign our approaches and methodology.
-Meticulously observing the ever dependent 3 Pillars – People, Process & Technology, the changes to our approach starts from here. Process, Technology and People will be our order of preference to tackle the digital era challenges.
-In all our client engagements, first and foremost we will clearly enumerate, define and establish the processes. This will remain as our guiding principle and motivate us throughout the engagement of delivering the products and solutions by adhering to the tenets of the processes.
-We will always have our eyes on glass to monitor and measure the effectiveness of the processes and committed to improve upon them as we learn along the journey of transformation.
-Technology will be the enabler of these processes. Right from the selection of infrastructure, architecture, solutions, tool and techniques that we ought to deploy in our client engagements, Technology will be empowering us, all along the way to achieve the objectives as defined in the processes.
-People focus is always a crucial area in any engagement. As committed above, the processes will define our approaches and technology will act as the enablers. People will be hired, on-boarded, trained and reskilled based on the guiding processes and the enabling technologies. Flexibility will be the key requirements for our people. Processes might change for the betterment, Tools and techniques might be obsolete, but flexibility in people remain our asset. Change is welcome at all times, as it brings the best out of us.
-In all our decisions, the principle of TAM (Technology as Manager) will be in fore-front. We don’t need taskmasters when Technology can take that role. Hence we don’t charge our clients for any of our people management roles & activities like Agile Coaches, Scrum Masters and Project Managers etc. Clients are charged only for the technical efforts. Our Agile Practitioners spend typically 80% of their time in technical activities and 20% in non-technical activities.
+Everyone knows that Software (Industry) is chaging. But what is that change is where confusions starts. As those who observed the industry for last two decades, We beleive the below as the major changes and we optimize us agains each of these aspects
+
+1. Technology is the Manager. Even 60-40 ratio is not enough. Everyone in the team should be technical.
+2. We needs work ~~around~~ on the product. Release often is just one part of it.
+3. Bigger is boring. Smaller is smarter.
