@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@import url(https://fonts.googleapis.com/css?family=Poppins:400,500,600);
+@import url("https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,300;1,200&display=swap");
 /*!
  * Bootstrap v5.0.1 (https://getbootstrap.com/)
  * Copyright 2011-2021 The Bootstrap Authors
@@ -28,7 +28,7 @@
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
-  --bs-font-sans-serif: Poppins Text, Helvetica Neue, Apple Color Emoji, sans-serif;
+  --bs-font-sans-serif: "Mulish", Helvetica Neue, Apple Color Emoji, sans-serif;
   --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
 }
@@ -47,7 +47,7 @@
 
 body {
   margin: 0;
-  font-family: Poppins Text, Helvetica Neue, Apple Color Emoji, sans-serif;
+  font-family: "Mulish", Helvetica Neue, Apple Color Emoji, sans-serif;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
@@ -5436,7 +5436,7 @@ textarea.form-control-lg {
   z-index: 1080;
   display: block;
   margin: 0;
-  font-family: Poppins Text, Helvetica Neue, Apple Color Emoji, sans-serif;
+  font-family: "Mulish", Helvetica Neue, Apple Color Emoji, sans-serif;
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
@@ -5538,7 +5538,7 @@ textarea.form-control-lg {
   z-index: 1070;
   display: block;
   max-width: 276px;
-  font-family: Poppins Text, Helvetica Neue, Apple Color Emoji, sans-serif;
+  font-family: "Mulish", Helvetica Neue, Apple Color Emoji, sans-serif;
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
