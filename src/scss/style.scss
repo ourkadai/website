@@ -7,6 +7,9 @@
 
 @import './vendors/bootstrap';
 
+.nav-link.active {
+  font-weight: bolder;
+}
 
 .type {
     display:inline-block;
