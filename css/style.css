@@ -10732,10 +10732,14 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
-.nav-link.active {
-  font-weight: bolder;
+@media (min-width: 768px) {
+  .nav-link.active {
+    font-weight: bolder;
+    font-size: 1.1em;
+    line-height: 1.2em;
+    text-decoration: underline;
+  }
 }
-
 .type {
   display: inline-block;
   vertical-align: bottom;
