@@ -16,7 +16,7 @@
 
 <body>
   
-  {{ if not .IsHome }}
+  {{ if and (not .IsHome) (ne .Type "presentations") }}
   {{ block "header" . }}{{ partial "header" . }}{{end}}
   {{ end }}
 
