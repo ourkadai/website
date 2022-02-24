@@ -13,7 +13,5 @@
 // eslint-disable-next-line no-undef
 module.exports = {
     files: ["dist/css/*.css", "dist/js/*.js", "dist/**/*.html"],
-    serveStatic: ['dist'],
-    proxy: "http://localhost:8080",
-    ghostMode: false,
+    serveStatic: ['dist']
 };
