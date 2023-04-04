@@ -9,62 +9,11 @@
     <lastBuildDate>Wed, 14 Nov 2018 19:02:50 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A1</title>
-      <link>/about/</link>
-      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
-      
-      <guid>/about/</guid>
-      <description>OurKadai Technologies is a consortium of highly dedicated and passionate professionals with a focus on open-source software development. We strive to contribute meaningfully to the technology and the community through superior quality software solutions.
-We specialize in designing and developing web applications with seamless integration, automation of business flows, and cost-effective e-business solutions with a focus on exceptional user experience through UI/UX.
-Our resolute focus is on efficient, cost-effective, quality, and timely delivery of technology solutions for business challenges.</description>
-    </item>
-    
-    <item>
-      <title>A1</title>
-      <link>/contact/</link>
-      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
-      
-      <guid>/contact/</guid>
-      <description>We are digitally native and believe in being digitally ubiquitous Call Us @ (+91) 75984 00628
-Mail Us @ operations@ourkadai.com
-Connect with Us @ Linkedin
-  </description>
-    </item>
-    
-    <item>
-      <title>A1</title>
       <link>/posts/articles/a1/</link>
       <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
       
       <guid>/posts/articles/a1/</guid>
       <description>I am a1</description>
-    </item>
-    
-    <item>
-      <title>A1</title>
-      <link>/publications/</link>
-      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
-      
-      <guid>/publications/</guid>
-      <description>Postgress Conference All You Need to Work with SQL is Just SQL Traditionally, we use Languages and Frameworks interact with Relational Databases. While these are effective in many ways, One problem is that, each of these brings new learning curve. It will be nice if we use SQL itself as the core skill and build application with plain simple SQL skills. In this webinar, I will demo this approach with a case study that builds simple, high performing Java application using Postgres database.</description>
-    </item>
-    
-    <item>
-      <title>A1</title>
-      <link>/services/</link>
-      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
-      
-      <guid>/services/</guid>
-      <description>Microservices If you are seeking to modernize your legacy monolithic IT systems and applications, we can help you on your microservices journey. Our team specializes in converting each function into an individual service that is agile, small in size, messaging-enabled, autonomously developed, independently deployable, decentralized, and automated. We will guide you to make your microservices transformation seamless, well-guided, and successful.
-            Devops DevOps is a journey, not an end goal.</description>
-    </item>
-    
-    <item>
-      <title>A1</title>
-      <link>/work/</link>
-      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
-      
-      <guid>/work/</guid>
-      <description>Low Code/No Code Aurzart Made by musician for musician’ as the company slogan proudly pronounces, the whole ecommerce site is exclusively made, managed and operated day-in and day-out by a techno-novice music enthusiast, Martyn Charles, one of the early adopters of no-code platform. This techno-romance is empowered by Technology and OurKadai enabled this melodious technology rendezvous, a reality. We baby stepped a non-techie musician to the world of no-code platforms, without spilling any silvers.</description>
     </item>
     
     <item>
@@ -83,6 +32,38 @@ Connect with Us @ Linkedin
       
       <guid>/posts/articles/a3/</guid>
       <description>I am a3</description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>/about/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>OurKadai Technologies is a consortium of highly dedicated and passionate professionals with a focus on open-source software development. We strive to contribute meaningfully to the technology and the community through superior quality software solutions.
+We specialize in designing and developing web applications with seamless integration, automation of business flows, and cost-effective e-business solutions with a focus on exceptional user experience through UI/UX.
+Our resolute focus is on efficient, cost-effective, quality, and timely delivery of technology solutions for business challenges.</description>
+    </item>
+    
+    <item>
+      <title>Clients</title>
+      <link>/work/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/work/</guid>
+      <description>Low Code/No Code Aurzart Made by musician for musician’ as the company slogan proudly pronounces, the whole ecommerce site is exclusively made, managed and operated day-in and day-out by a techno-novice music enthusiast, Martyn Charles, one of the early adopters of no-code platform. This techno-romance is empowered by Technology and OurKadai enabled this melodious technology rendezvous, a reality. We baby stepped a non-techie musician to the world of no-code platforms, without spilling any silvers.</description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>/contact/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>We are digitally native and believe in being digitally ubiquitous Call Us @ (+91) 75984 00628
+Mail Us @ operations@ourkadai.com
+Connect with Us @ Linkedin
+  </description>
     </item>
     
     <item>
@@ -105,13 +86,42 @@ Academic Score Tier 1 Colleges / City Communication Skills ( English )    logo c
     </item>
     
     <item>
-      <title>Ourkadai - Methodalogy</title>
+      <title>Methodalogy</title>
       <link>/methodology/</link>
       <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
       
       <guid>/methodology/</guid>
       <description>The software industry is evolving rapidly, and keeping up with the changes can be challenging. Drawing from our two decades of experience in the field and our thoughtful observations, we have identified several significant developments that are shaping the industry. We have tailored our methodology to address these challenges head-on.
 Technology is a Manager In today&amp;rsquo;s technology-driven world, the concept of traditional management is becoming obsolete as technology can act as a manager.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/publications/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>Postgress Conference All You Need to Work with SQL is Just SQL Traditionally, we use Languages and Frameworks interact with Relational Databases. While these are effective in many ways, One problem is that, each of these brings new learning curve. It will be nice if we use SQL itself as the core skill and build application with plain simple SQL skills. In this webinar, I will demo this approach with a case study that builds simple, high performing Java application using Postgres database.</description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>/services/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/services/</guid>
+      <description>Microservices If you are seeking to modernize your legacy monolithic IT systems and applications, we can help you on your microservices journey. Our team specializes in converting each function into an individual service that is agile, small in size, messaging-enabled, autonomously developed, independently deployable, decentralized, and automated. We will guide you to make your microservices transformation seamless, well-guided, and successful.
+            Devops DevOps is a journey, not an end goal.</description>
+    </item>
+    
+    <item>
+      <title>Training</title>
+      <link>/training/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/training/</guid>
+      <description>At OurKadai Technologies, we have a team of dedicated and experienced technology professionals with nearly two decades of experience in corporate training, recruitment, and talent scouting. Our core team consists of professionals who are part of Academic Advisory Boards and contribute to various technical forums &amp;amp; workshops. We are passionate about providing customized and interactive training programs that cater to the specific needs of today&amp;rsquo;s highly competitive tech industry.
+Our training packages cover a wide range of topics that eliminate talent gaps and empower employees with the greatest IT skills, including the latest technology, niche tools/techniques, and industry-benchmarked quality systems.</description>
     </item>
     
   </channel>
