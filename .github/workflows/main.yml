@@ -29,9 +29,7 @@ jobs:
         echo 'ourkadai.com' > dist/CNAME
       env: 
         CI: true
-    - name: Deploy
-      uses: peaceiris/actions-gh-pages@v2.4.0
-      env:
-        GITHUB_TOKEN: ${{ secrets.GH_PAGES_TOKEN }}
-        PUBLISH_BRANCH: gh-pages
-        PUBLISH_DIR: ./dist
+    - name: Deploy 🚀
+      uses: JamesIves/github-pages-deploy-action@v4
+      with:
+        folder: ./dist
