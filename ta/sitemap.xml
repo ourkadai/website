@@ -16,10 +16,6 @@
                 href="/"
                 />
   </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
-    <priority>0</priority>
-  </url><url>
     <loc>/posts/articles/a1/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
@@ -33,6 +29,9 @@
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
     <loc>/posts/articles/</loc>
+    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
     <loc>/work/</loc>
