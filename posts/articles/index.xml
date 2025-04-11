@@ -4,35 +4,30 @@
     <title>Articles on Ourkadai Technologies</title>
     <link>/posts/articles/</link>
     <description>Recent content in Articles on Ourkadai Technologies</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 14 Nov 2018 19:02:50 -0700</lastBuildDate><atom:link href="/posts/articles/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>ta</language>
+    <lastBuildDate>Wed, 14 Nov 2018 19:02:50 -0700</lastBuildDate>
+    <atom:link href="/posts/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A1</title>
       <link>/posts/articles/a1/</link>
       <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
-      
       <guid>/posts/articles/a1/</guid>
-      <description>I am a1</description>
+      <description>&lt;p&gt;I am a1&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>A2</title>
       <link>/posts/articles/a2/</link>
       <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
-      
       <guid>/posts/articles/a2/</guid>
-      <description>I am a2</description>
+      <description>&lt;p&gt;I am a2&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>A3</title>
       <link>/posts/articles/a3/</link>
       <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
-      
       <guid>/posts/articles/a3/</guid>
-      <description>I am a3</description>
+      <description>&lt;p&gt;I am a3&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
