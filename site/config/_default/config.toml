@@ -36,3 +36,7 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [taxonomies]
   tag = "tags"
+
+[security]
+  [security.funcs]
+    getenv = ['^HUGO_', '^CI$', ' CONTEXT']

@@ -9,25 +9,25 @@
     <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link {{ if eq .URL "/services/" }}active{{ end }}" aria-current="page" href="/services">Services</a>
+          <a class="nav-link {{ if eq .RelPermalink "/services/" }}active{{ end }}" aria-current="page" href="/services">Services</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link {{ if eq .URL "/training/" }}active{{ end }}" aria-current="page" href="/training">Training</a>
+          <a class="nav-link {{ if eq .RelPermalink "/training/" }}active{{ end }}" aria-current="page" href="/training">Training</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link {{ if eq .URL "/methodology/" }}active{{ end }}" href="/methodology">Methodology</a>
+          <a class="nav-link {{ if eq .RelPermalink "/methodology/" }}active{{ end }}" href="/methodology">Methodology</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link {{ if eq .URL "/work/" }}active{{ end }}" href="/work">Clients</a>
+          <a class="nav-link {{ if eq .RelPermalink "/work/" }}active{{ end }}" href="/work">Clients</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link {{ if eq .URL "/publications/" }}active{{ end }}" href="/publications">Publications</a>
+          <a class="nav-link {{ if eq .RelPermalink "/publications/" }}active{{ end }}" href="/publications">Publications</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link {{ if eq .URL "/about/" }}active{{ end }}" href="/about">About</a>
+          <a class="nav-link {{ if eq .RelPermalink "/about/" }}active{{ end }}" href="/about">About</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link {{ if eq .URL "/contact/" }}active{{ end }}" href="/contact">Contact</a>
+          <a class="nav-link {{ if eq .RelPermalink "/contact/" }}active{{ end }}" href="/contact">Contact</a>
         </li>
 
       </ul>

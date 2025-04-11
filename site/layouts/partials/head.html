@@ -6,7 +6,11 @@
     <base href="{{ if getenv " CONTEXT" }}{{ cond (eq "production" (getenv
     "CONTEXT" )) (getenv "URL" ) (getenv "DEPLOY_PRIME_URL" ) }}{{ else }}{{
     $.Site.BaseURL }}{{ end }}">
+    {{ if .IsHome }}
+    <title>{{ $.Site.Title }}</title>
+    {{ else }}
     <title>{{ $.Title }} | {{ $.Site.Title }}</title>
+    {{ end }}
 
     <!--Fav Icon-->
     <link
