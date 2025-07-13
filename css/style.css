@@ -11902,5 +11902,8 @@ textarea.form-control-lg {
     transform: translateY(-300%);
   }
 }
+.img-fluid {
+  max-width: 65%;
+}
 
 /*# sourceMappingURL=style.css.map */
